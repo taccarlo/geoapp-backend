@@ -10,9 +10,6 @@ module.exports = ({ env }) => ({
         database: env("DATABASE_NAME", "geoapp"),
         username: env("DATABASE_USERNAME", "postgres"),
         password: env("DATABASE_PASSWORD", "postgres"),
-        // ssl: {
-        //   rejectUnauthorized: env.bool("DATABASE_SSL_SELF", false),
-        // },
       },
       options: {},
     },
