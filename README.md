@@ -58,4 +58,5 @@ Open [http://localhost:5000](http://localhost:5000) to view it in the browser th
 
 ```
 Settings > USERS & PERMISSIONS PLUGIN  > Roles > Public
+Select all permissions for Apllication & Upload
 ```
