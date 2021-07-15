@@ -52,4 +52,10 @@ yarn
 yarn develop
 ```
 
-Open [http://localhost:5000](http://localhost:5000) to view it in the browser.
+Open [http://localhost:5000](http://localhost:5000) to view it in the browser then create an Admin account.
+
+4. Change permissions.
+
+```
+Settings > USERS & PERMISSIONS PLUGIN  > Roles > Public
+```
