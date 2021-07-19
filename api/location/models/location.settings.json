@@ -28,7 +28,7 @@
       "unique": true
     },
     "telefono": {
-      "type": "biginteger"
+      "type": "string"
     },
     "sito": {
       "type": "string"
@@ -36,7 +36,7 @@
     "orario": {
       "type": "string"
     },
-    "descrizizone": {
+    "descrizione": {
       "type": "text"
     },
     "categoria": {
